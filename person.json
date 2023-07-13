@@ -1,7 +1,7 @@
 [
   {
     "id": 10,
-    "name": "Vilma Jefferson123",
+    "name": "Vilma Jefferson",
     "email": "vilmajefferson@gology.com",
     "gender": "female",
     "address": { "street": "Bath Avenue", "city": "New York" },
@@ -9,7 +9,7 @@
   },
   {
     "id": 11,
-    "name": "Cassandra Nguyen123",
+    "name": "Cassandra Nguyen",
     "email": "cassandranguyen@gology.com",
     "gender": "female",
     "address": { "street": "Hamilton Avenue", "city": "Chicago" },
